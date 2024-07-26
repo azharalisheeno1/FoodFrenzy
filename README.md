@@ -1,8 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I have developed a frontend project named FoodFrenzy using React.js, Tailwind CSS, and a variety of powerful libraries and tools. This dynamic project leverages Redux Toolkit for state management, Axios for API calls, and Formik for form handling and validation. The interface is enhanced with Swiper for interactive carousels and Framer Motion for engaging animations. The project utilizes React Router for seamless navigation across multiple pages and components. Users can add, remove, increase, or decrease items within the application. The entire project is fully responsive, ensuring a smooth and adaptive user experience across different devices.
